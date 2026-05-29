@@ -1,6 +1,30 @@
+1. Begel, A., \& Zimmermann, T. (2014). Analyze this: What do software engineering professionals want to know about software engineering? Proceedings of the 36th International Conference on Software Engineering, 12–23.
 
-6. Bock, L. (2015). *Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead*. Twelve Publishing. (This resource supports research regarding industry data showing that standard test scores and formal credentials do not correlate with real-world engineering performance).
 
-7. Fuller, J., Langer, J., Richmond, B., & Taska, M. (2022). *The Emerging Degree Reset: How Skills-Based Hiring is Transforming the Tech Labor Market*. Burning Glass Institute & Harvard Business School Managing the Future of Work Project. (This resource supports research regarding major tech firms structurally dropping traditional educational barriers in favor of verifiable skill portfolios).
 
-8. GitHub. (2025). *The State of the Octoverse: Open Source Participation and AI Adoption Rates*. GitHub Engineering Reports. (This resource supports research regarding the growing role of open-source contributions as a verified ledger of developer talent).
+2\. Bird, C., Gourley, A., DeLine, R., \& Storey, M. A. (2007). Open source as a recruitment pool: Determining the validity of external code contributions. Journal of Software Maintenance and Evolution: Research and Practice, 19(5), 321–338.
+
+
+
+3\. Capretz, L. F. (2014). Bringing the human factor to software engineering education. IEEE International Conference on Software Engineering Companion, 496–499.
+
+
+
+4\. Fowler, M. (2018). Refactoring: Improving the design of existing code (2nd ed.). Addison-Wesley Professional.
+
+
+
+5\. Glass, R. L. (2006). Facts and fallacies of software engineering. Addison-Wesley.
+
+
+
+6\. Hilton, M., Tunnell, T., Huang, K., Marinov, D., \& Dig, D. (2016). Usage, benefits, and barriers of continuous integration in open source. Proceedings of the 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering, 426–437.
+
+
+
+7\. Knuth, D. E. (1997). The art of computer programming: Fundamental algorithms (Vol. 1, 3rd ed.). Addison-Wesley.
+
+
+
+8\. Spinellis, D. (2006). Code quality: The open source perspective. Addison-Wesley Professional
+
