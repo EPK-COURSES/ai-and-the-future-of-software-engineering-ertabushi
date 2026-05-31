@@ -42,7 +42,7 @@ If you do spend time on certificates, pick areas where AI cannot work alone. Sta
 
 
 
-Since AI can generate clean code from a simple text prompt, the way we build portfolios has to change. A few years ago, a portfolio full of basic apps, weather trackers, or simple landing pages was enough to get a junior dev job. Now, those exact same projects can be made by an AI in thirty seconds. Because anyone can copy and paste their way to a basic app, simple portfolio pieces have lost their value. Employers do not care if you can just write code anymore—they want to see how you design a system and manage its moving parts when things get complicated.
+Since AI can generate clean code from a simple text prompt, the way we build portfolios has to change. A few years ago, a portfolio full of basic apps, weather trackers, or simple landing pages was enough to get a junior dev job. Now, those exact same projects can be made by an AI in thirty seconds. Because anyone can copy and paste their way to a basic app, simple portfolio pieces have lost their value. Employers do not care if you can just write code anymorethey want to see how you design a system and manage its moving parts when things get complicated.
 
 
 
@@ -60,7 +60,7 @@ Instead of filling your GitHub profile with ten simple apps, you will get much m
 
 
 
-Hiring managers use GitHub to check your daily work habits. They look at your commit history to see if you upload work frequently and write clear messages. Clean, descriptive updates show good engineering hygiene. Building a deep project exposes you to the real, painful parts of software engineering—like dependency bugs and deployment errors—that a course or a certificate can never teach you.
+Hiring managers use GitHub to check your daily work habits. They look at your commit history to see if you upload work frequently and write clear messages. Clean, descriptive updates show good engineering hygiene. Building a deep project exposes you to the real, painful parts of software engineeringlike dependency bugs and deployment errorsthat a course or a certificate can never teach you.
 
 
 
@@ -92,7 +92,7 @@ For entry-level developers, open-source work removes the risk from your resume. 
 
 
 
-Using AI while learning to code is a double-edged sword. If you use it as a shortcut—meaning you copy a homework prompt, paste it into an LLM, and paste the answer into your code editor—you are stopping your own career growth. It feels like you are getting things done fast, but you are skipping the mental struggle that actually teaches your brain how to solve logic problems. This creates a dangerous loop where you become completely dependent on the tool, leaving you stranded the second the AI makes a mistake or gives you broken logic.
+Using AI while learning to code is a double-edged sword. If you use it as a shortcutmeaning you copy a homework prompt, paste it into an LLM, and paste the answer into your code editoryou are stopping your own career growth. It feels like you are getting things done fast, but you are skipping the mental struggle that actually teaches your brain how to solve logic problems. This creates a dangerous loop where you become completely dependent on the tool, leaving you stranded the second the AI makes a mistake or gives you broken logic.
 
 
 
@@ -116,7 +116,7 @@ It is incredibly tempting to skip the dry, academic basics of computer science t
 
 
 
-AI models work on probability, not logic. They frequently generate code that looks great on the surface but is completely broken underneath, full of hidden bugs or massive performance issues. If you do not understand low-level concepts—like manual memory management, pointer manipulation, and data structures like singly linked lists—you won't be able to spot an AI mistake.
+AI models work on probability, not logic. They frequently generate code that looks great on the surface but is completely broken underneath, full of hidden bugs or massive performance issues. If you do not understand low-level conceptslike manual memory management, pointer manipulation, and data structures like singly linked listsyou won't be able to spot an AI mistake.
 
 
 
@@ -124,5 +124,11 @@ For example, if you are working in a language like C and do not understand how d
 
 
 
-You need to split your learning into two categories: permanent and ephemeral knowledge. Permanent knowledge includes the concepts that change incredibly slowly over decades—things like algorithmic complexity, networking protocols, database normalization, and operating system basics. Ephemeral knowledge includes specific framework updates, API syntaxes, and tool features that change or disappear every few years. If you anchor your brain in permanent fundamentals, you can swap between frameworks and AI tools effortlessly because you understand the permanent, physical realities of the machine. 
+You need to split your learning into two categories: permanent and ephemeral knowledge. Permanent knowledge includes the concepts that change incredibly slowly over decadesthings like algorithmic complexity, networking protocols, database normalization, and operating system basics. Ephemeral knowledge includes specific framework updates, API syntaxes, and tool features that change or disappear every few years. If you anchor your brain in permanent fundamentals, you can swap between frameworks and AI tools effortlessly because you understand the permanent, physical realities of the machine.
+
+Here are a few natural, humanized closing sentences you can use to wrap up that section:
+
+
+
+At the end of the day, trying to learn every new tool that comes out is a fast track to burnout. The smartest developers survive the time crunch not by working more hours, but by protecting their energy and mastering the core coding fundamentals that never change. If you stay consistent with small daily habits and look after your mental health, the rapid changes in tech stop being scary and just become part of the routine.
 
